@@ -28,8 +28,12 @@ With unreliable internet providers and/or bad routers the internet connection ma
 
 The script output is very simple
 
-. pinging server
-\# connection error, will reconnect
-! reconnection error
+**.** pinging server
+
+**\#** connection error, will reconnect
+
+**!** reconnection error
+
+
 
 
